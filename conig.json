@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "weather": {
+            "command": "C:\\Users\\techc\\OneDrive\\Desktop\\weather\\myenv\\Scripts\\uv",
+            "args": [
+                "--directory",
+                "C:\\Users\\techc\\OneDrive\\Desktop\\weather",
+                "run",
+                "weather.py"
+            ]
+        }
+    }
+}
